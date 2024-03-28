@@ -1,0 +1,3 @@
+env_variables:
+  MONGO_USERNAME: aakash
+  MONGO_PASSWORD: aakash21
