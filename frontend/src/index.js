@@ -7,12 +7,12 @@ import reportWebVitals from './reportWebVitals';
 // Import the functions you need from the SDKs you need
 import { initializeApp } from "firebase/app";
 const firebaseConfig = {
-  apiKey: "AIzaSyBgNDljirv-_uKKcrfO2Xk4NDiW-GEwDO8",
+  apiKey: "api-key",
   authDomain: "my-react-blog-be30f.firebaseapp.com",
   projectId: "my-react-blog-be30f",
   storageBucket: "my-react-blog-be30f.appspot.com",
-  messagingSenderId: "518419870481",
-  appId: "1:518419870481:web:62cb39fa13f557211492b0"
+  messagingSenderId: "sender-id",
+  appId: "api-id"
 };
 
 // Initialize Firebase
